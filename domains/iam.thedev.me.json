@@ -1,0 +1,13 @@
+{
+  "subdomain": "iam",
+  "domain": "thedev.me",
+  "email_or_discord": "devan.mv2@gmail.com",
+  "github_username": "devanmv",
+  "description": "My Blogger blog",
+
+  "records": {
+    "CNAME": ["ghs.google.com"]
+  },
+
+  "proxied": false
+}
